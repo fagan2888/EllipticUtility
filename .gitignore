@@ -26,5 +26,4 @@ dist/*
 *.m~
 *.sublime*
 .DS_Store
-*puf.csv
-*/OUTPUT/*
+

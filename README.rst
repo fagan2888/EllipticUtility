@@ -2,7 +2,7 @@
 Computational files for paper, "Advantages of an Ellipse when Modeling Leisure Utility"
 =================================
 
-This repository contains the computational code used in the paper, "Advantages of an Ellipse when Modeling Leisure Utility," by Richard W. Evans and Kerk L. Phillips. We have included a PDF of the most recent draft of the paper, as well as Python code and Dynare code.
+This repository contains the computational code used in the paper, "Advantages of an Ellipse when Modeling Leisure Utility," by Richard W. Evans and Kerk L. Phillips, *Computational Economics*, (forthcoming). We have included a PDF of the most recent draft of the paper, as well as Python code and Dynare code.
 
 Python code
 ===========
